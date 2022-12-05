@@ -11,3 +11,8 @@
 - Fight Club
 - The Italian Job
 - Bourne Legacy
+
+## Bruce Willis Movies
+- Die Hard
+- The Sixth Sense
+- Armageddon
