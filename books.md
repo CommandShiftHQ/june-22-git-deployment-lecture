@@ -12,6 +12,6 @@
 
 ## Philip K Dick
 - Ubik
-- Do Androids Cream Of Electric Sheep
+- Do Androids Dream Of Electric Sheep
 - The Man In the High Castle
 - A Scanner Darkly
