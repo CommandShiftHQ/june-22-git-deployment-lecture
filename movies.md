@@ -18,3 +18,9 @@
 - Crouching Tiger Hidden Dragon
 - Sunshine
 - Tomorrow Never Dies
+
+## Bruce Willis movies
+
+- Die Hard
+- The Sixth Sense
+- Armageddon
